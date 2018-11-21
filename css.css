@@ -1,0 +1,26 @@
+section.hero.is-bold{
+    background-image: url(image/watpho.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.font{
+    font-family: 'Yeseva One', cursive;
+}
+.fontT{
+    font-family: 'Kanit', sans-serif;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+}
+.footer2{
+    height: 250px;
+    background-color: #F1C40F;
+}
+.footer3{
+    height: 400px;
+    background-size: cover;
+    background-position: center center; 
+    background-image: url(image/Bangkok-tailandia-1050x599.jpg);
+}
