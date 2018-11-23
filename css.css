@@ -24,3 +24,45 @@ section.hero.is-bold{
     background-position: center center; 
     background-image: url(image/Bangkok-tailandia-1050x599.jpg);
 }
+
+section.hero.is-medium.is-bold.herob1{
+    background-image: url(image/banner_history.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.img2{
+width: 250px;
+}
+
+
+
+section.hero.is-bold.herob2{
+    background-image: url(image/watlampangHero.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img1{
+    width: 250px;
+
+}
+
+section.hero.is-bold.herob3{
+    background-image: url(image/วัดถ้ำเสือ4.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img1{
+    width: 250px;
+
+}
+
+section.hero.is-bold.herob4{
+    background-image: url(image/โสธร.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+.img4{
+    width: 250px;
+
+}
